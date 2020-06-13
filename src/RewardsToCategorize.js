@@ -112,7 +112,8 @@ class RewardsToCategorize extends Component {
 
     return (
       <div className="drag-container">
-        <h2 className="head">To Do List Drag & Drop</h2>
+        <h2 className="head"> Miles Front End Challenge</h2>
+
         <div
           className="Rewards"
           placeholder={tasks.taskName}

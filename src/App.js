@@ -4,7 +4,7 @@ import RewardsToCategorize from "./RewardsToCategorize";
 function App() {
   return (
     <div className="App">
-      <ToDoDragDropDemo />
+      <RewardsToCategorize />
     </div>
   );
 }
